@@ -15,7 +15,6 @@ A **React-based** web application that allows users to **upload CSV files** and 
 5. [Dependencies](#-dependencies)  
 6. [Customization](#-customization)  
 7. [Troubleshooting](#-troubleshooting)  
-8. [Contributing](#-contributing)  
 
 ---
 
@@ -121,10 +120,3 @@ Add a theme toggle in `App.js`.
 | Export not working | Ensure `file-saver` is installed |
 
 ---
-
-## **🤝 Contributing**  
-1. Fork the repository.  
-2. Create a new branch (`git checkout -b feature/new-chart`).  
-3. Commit changes (`git commit -m "Add new chart type"`).  
-4. Push to the branch (`git push origin feature/new-chart`).  
-5. Open a **Pull Request**.  
